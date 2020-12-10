@@ -4,7 +4,7 @@
   "description": "Dark Theme New York",
   "publisher": "rioj7",
   "license": "MIT",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "engines": { "vscode": "*" },
   "categories": ["Themes"],
   "keywords": ["New","York"],
