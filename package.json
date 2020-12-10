@@ -1,0 +1,30 @@
+{
+  "name": "theme-New-York",
+  "displayName": "New York",
+  "description": "Dark Theme New York",
+  "publisher": "rioj7",
+  "license": "MIT",
+  "version": "0.2.1",
+  "engines": { "vscode": "*" },
+  "categories": ["Themes"],
+  "keywords": ["New","York"],
+  "icon": "images/icon.png",
+  "galleryBanner": {"color": "#000080", "theme": "dark"},
+  "contributes": {
+    "themes": [
+      {
+        "label": "New York",
+        "uiTheme": "vs-dark",
+        "path": "./NewYork-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/rioj7/vscode-theme-new-york",
+  "bugs": {
+    "url": "https://github.com/rioj7/vscode-theme-new-york/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rioj7/vscode-theme-new-york.git"
+  }
+}
